@@ -1,0 +1,751 @@
+Question,Complexity,Answer Match
+Is the person with the highest net worth self-made?,2,False
+Does the youngest billionaire identify as male?,4,False
+Is the city with the most billionaires in the United States?,2,False
+Is there a non-self-made billionaire in the top 5 ranks?,2,False
+Does the oldest billionaire have a philanthropy score of 5?,3,True
+What is the age of the youngest billionaire?,1,True
+How many billionaires are there from the 'Technology' category?,5,False
+What's the total worth of billionaires in the 'Automotive' category?,4,True
+How many billionaires have a philanthropy score above 3?,4,True
+What's the rank of the wealthiest non-self-made billionaire?,3,True
+Which category does the richest billionaire belong to?,4,True
+What's the country of origin of the oldest billionaire?,3,True
+What's the gender of the billionaire with the highest philanthropy score?,3,True
+What's the source of wealth for the youngest billionaire?,1,True
+What is the title of the billionaire with the lowest rank?,2,False
+List the top 3 countries with the most billionaires.,1,True
+List the top 2 most common sources of wealth for billionaires.,2,True
+List the 4 cities where the four youngest billionaires live.,2,False
+List the 4 categories with the fewest billionaires.,3,True
+List the 2 countries with the least number of billionaires. If there are more than two with the same number take the first two alphabetically.,4,False
+List the top 5 ranks of billionaires who are not self-made.,2,True
+List the youngest 3 ages of billionaires who have a philanthropy score of 5.,3,True
+List the highest 6 final worth values of billionaires in the 'Technology' category.,4,True
+List the top 4 ranks of female billionaires.,1,False
+List the top 2 final worth values of billionaires in the 'Automotive' category.,4,True
+Did any children below the age of 18 survive?,1,True
+Were there any passengers who paid a fare of more than $500?,2,True
+Is every passenger's name unique?,4,False
+Were there any female passengers in the 3rd class who survived?,2,True
+How many unique passenger classes are present in the dataset?,4,True
+What's the maximum age of the passengers?,2,True
+How many passengers boarded without any siblings or spouses?,4,True
+"On average, how much fare did the passengers pay?",1,True
+Which passenger class has the highest number of survivors?,3,True
+What's the most common gender among the survivors?,2,True
+"Among those who survived, which fare range was the most common: (0-50, 50-100, 100-150, 150+)?",4,False
+"What's the most common age range among passengers: (0-18, 18-30, 30-50, 50+)?",4,False
+Name the top 3 passenger classes by survival rate.,2,True
+"Could you list the 3 fare ranges present in the dataset with the least survivors: (0-50, 50-100, 100-150, 150+)?",4,False
+"What are the top 4 age ranges ('30-50', '18-30', '0-18', '50+') with the highest number of survivors?",5,False
+What are the top 2 genders by average fare paid?,1,True
+What are the oldest 3 ages among the survivors?,2,True
+Which are the top 4 fares paid by survivors?,1,True
+Could you list the youngest 3 ages among the survivors?,2,True
+Which are the lowest 4 fares among those who didn't survive?,2,True
+Is the average age of the respondents above 30?,2,True
+Are there more single individuals than married ones in the dataset?,3,True
+Do the majority of respondents have a height greater than 170 cm?,2,False
+Is the most frequent hair color black?,1,False
+How many unique nationalities are present in the dataset?,5,False
+What is the average gross annual salary?,4,True
+How many respondents wear glasses all the time?,1,False
+What's the median age of the respondents?,2,False
+What is the most common level of studies achieved?,1,True
+Which body complexity has the least number of respondents?,4,False
+What's the most frequent eye color?,1,False
+Which sexual orientation has the highest representation?,5,False
+List the top 3 most common areas of knowledge.,1,False
+List the bottom 3 hair lengths in terms of frequency.,1,False
+Name the top 5 civil statuses represented in the dataset.,4,True
+What are the 4 least common hair colors?,1,False
+What are the top 4 maximum gross annual salaries?,3,True
+Name the 3 happiness values for the 3 unhappiest people in the happiness scale.,3,False
+What are the 5 highest ages present in the dataset?,2,False
+List the bottom 6 skin tone values based on frequency.,1,True
+Are there any trips with a total distance greater than 30 miles?,2,True
+Were there any trips that cost more than $100 in total?,2,True
+Is there any trip with more than 6 passengers?,1,True
+Did all the trips use a payment type of either 1 or 2?,2,True
+What is the maximum fare amount charged for a trip?,1,True
+How many unique pickup locations are in the dataset?,4,True
+What is the average tip amount given by passengers?,3,True
+How many trips took place in the airport area?,1,False
+Which payment type is the most common in the dataset?,1,True
+Which vendor has the most trips recorded?,1,True
+What is the most common drop-off location?,2,True
+On which date did the first recorded trip occur?,1,True
+Which are the top 2 most frequent pickup locations?,1,True
+Name the 4 most common rate codes used.,1,True
+list the 2 most frequent store and forward flags.,1,True
+Identify the top 4 payment types used by frequency,3,True
+Report the 4 highest toll amounts paid.,1,True
+list the top 3 longest trip distances,1,True
+Identify the 5 largest total amounts paid for trips.,3,False
+Report the 6 highest fare amounts charged.,1,True
+Are there any complaints made in Brooklyn?,1,False
+Do any complaints have 'Dog' as a descriptor?,1,True
+Were there any complaints raised in April?,1,True
+Is the Mayor's office of special enforcement one of the agencies handling complaints?,4,False
+How many complaints have been made in Queens?,1,True
+What's the total number of unique agencies handling complaints?,4,True
+How many complaints were raised at midnight?,1,True
+How many unique descriptors are present in the dataset?,4,True
+Which borough has the most complaints?,1,True
+Which month sees the highest number of complaints?,1,True
+Which weekday has the least complaints?,1,True
+Which agency is least frequently handling complaints?,4,True
+List the top 5 most frequent complaint types.,1,True
+Which 4 agencies handle the most complaints?,2,True
+Name the 2 least frequent descriptors for complaints by inverse alphabetical order.,4,False
+Mention the 2 most common weekdays for complaints.,1,True
+What are the top 4 hours with the most complaints?,1,True
+State the 3 lowest unique complaint keys.,1,True
+Which 2 hours see the least complaints?,1,False
+List the 6 highest complaint numbers from the dataset.,2,False
+Are all properties in the dataset located in the same neighbourhood?,3,True
+Do all hosts verify their identity?,3,True
+Are all reviews_per_month values greater than 5?,2,True
+Are there any listings without a specified room type?,2,True
+How many unique neighbourhoods are there in the dataset?,3,False
+How many listings don't have a valid price?,1,False
+How many properties have received the worst possible (0-5) review score for communication?,4,True
+What is the maximum number of bedrooms a property has in this dataset?,3,True
+Which neighbourhood has the most listings?,1,False
+What is the most common room type in the listings?,1,True
+What property type has the most listings?,1,True
+Which host verification method is the least used?,2,False
+List the top 3 neighbourhoods with the most listings.,1,True
+Which are the top 4 most common property types?,1,True
+List the 2 most common host verification methods.,3,False
+Which are the 2 most preferred room types?,1,False
+What are the top 3 highest review scores for location?,1,True
+What are the 4 most common number of bedrooms in properties?,2,False
+What are the 5 highest counts of listings by a single host for entire homes?,2,False
+List the 6 lowest review scores for communication.,3,True
+Are there players who have a greater overall score than their potential score?,3,False
+Are there any players who joined their current club before they were 18 years old?,2,False
+Are there any players whose preferred foot is left and are from a nationality that starts with 'B'?,3,True
+Are there any players who are taller than 6 feet and have an agility score above 90?,3,False
+What is the average overall score of players from France?,2,True
+How many unique clubs are there in the dataset?,1,True
+What is the highest value (in €) of a player in the dataset?,2,False
+How many players have the position 'ST'?,2,False
+What is the most common nationality in the dataset?,4,True
+What is the most common preferred foot amongst players?,1,False
+Which club has the most players in the dataset?,1,False
+What is the most common position of players in the dataset?,2,False
+Which are the top 5 nationalities in terms of the average overall score of their players?,4,False
+Which are the top 3 clubs in terms of the total value (in €) of their players?,3,True
+Which are the bottom 4 nationalities in terms of the average agility of their players?,4,False
+Which are the top 6 clubs in terms of the average potential score of their players?,2,False
+What are the top 3 overall scores in the dataset?,1,False
+What are the bottom 5 potential scores in the dataset?,2,False
+What are the top 4 values (in €) of players in the dataset?,2,False
+What are the top 2 wages (in €) of players in the dataset?,2,False
+There are no tornadoes that resulted in more than 500 injuries.,2,True
+All tornadoes in the dataset occurred in the 21st century.,3,True
+No tornado has a length greater than 100 miles.,1,False
+There are no tornadoes that resulted in more than 100 fatalities.,3,True
+How many unique states are represented in the dataset?,4,True
+What is the highest magnitude of tornado recorded in the dataset?,4,True
+What is the longest length of a tornado path in the dataset?,2,True
+What is the maximum number of injuries caused by a single tornado?,4,True
+Which state has experienced the most tornadoes?,3,True
+In which month do most tornadoes occur?,1,True
+On what date did the most destructive tornado (by injuries) occur?,3,True
+On what date did the longest tornado (by path length) occur?,2,True
+Which are the top 5 states with the highest average tornado magnitude?,3,True
+Which are the top 2 states with the most tornado-related injuries? If in a tie then select alphabetically. ,3,True
+Which are the top 4 states with the most tornado-related fatalities? If you find a tie select alphabetically.,3,True
+Which are the bottom 2 states in terms of the average tornado path length?,2,True
+What are the top 3 number of injuries caused by tornadoes in the dataset?,3,True
+What are the top 5 magnitudes of tornadoes in the dataset?,2,True
+What are the top 4 path lengths of tornadoes in the dataset?,2,True
+What are the top 6 number of fatalities caused by tornadoes in the dataset?,3,True
+There were no days when the precipitation was greater than 5 inches.,2,False
+All recorded temperatures are above freezing point.,4,True
+There were no days when the snow depth was more than 10 inches.,2,False
+There were no days when the maximum temperature was below freezing point.,2,True
+What is the highest recorded precipitation in inches?,5,True
+What is the lowest minimum temperature recorded?,4,True
+What is the highest maximum temperature recorded?,4,True
+What is the deepest recorded snow depth in inches?,1,True
+On which date was the highest precipitation recorded?,4,True
+On which date was the lowest minimum temperature recorded?,4,True
+On which date was the highest maximum temperature recorded?,4,True
+On which date was the deepest snow depth recorded?,1,True
+What are the dates of the top 5 highest recorded precipitation events?,4,False
+What are the dates of the top 3 lowest minimum temperatures recorded?,3,False
+What are the dates of the top 4 highest maximum temperatures recorded?,3,False
+What are the dates of the top 2 deepest snow depth recorded?,2,False
+What are the 3 highest recorded precipitation events in inches?,4,False
+What are the 5 lowest minimum temperatures recorded?,4,True
+What are the 4 highest maximum temperatures recorded?,4,True
+What are the 2 deepest snow depth recorded in inches?,1,True
+Are there more than 20 unique clothing items in the dataset?,2,True
+Is the age of the reviewers above 50 years on average?,2,True
+Do all reviews come from the same department?,1,True
+Are all products recommended?,4,True
+What is the average age of the reviewers?,1,True
+What's the highest number of positive feedback received for a review?,3,True
+What is the most common rating given by reviewers?,2,True
+How many unique clothing items are there in the dataset?,3,True
+Which department has the most reviews?,1,True
+Which class of clothing is most commonly reviewed?,1,True
+Which division is most commonly mentioned in the reviews?,3,True
+What is the most frequently reviewed clothing item? If you find a tie answer with row order.,3,True
+Which are the 4 most reviewed categories in Department Name?,3,True
+Which are the top 2 most reviewed categories in Class Name?,2,True
+Which are the 2 most reviewed categories in Division Name?,3,True
+What are the 4 highest ratings given by reviewers?,2,False
+What are the 5 oldest Ages of reviewers?,1,False
+What are the 4 most common Positive Feedback Counts of reviewers?,2,False
+What are the 2 most common values for recommendation indicator?,4,True
+What are the 2 most common clothing IDs in the reviews? If you find a tie answer in row order.,3,True
+Was the highest reported incident in the year 2023 filed online?,2,False
+Are all incidents reported on Mondays resolved?,4,True
+Do any incidents reported in Police District 'Central' fall in Supervisor District 5?,5,False
+Are there any incidents that occurred at the same latitude and longitude more than once?,3,True
+How many unique types of incident categories are there in the dataset?,4,True
+What's the total number of incidents reported online?,4,False
+How many different police districts are there in the dataset?,3,True
+What is the average incident count per year?,1,False
+What is the most common incident category?,4,True
+Which day of the week has the highest number of incidents?,2,False
+What is the most common resolution for incidents reported online?,4,True
+What is the Police District with the most incidents?,1,True
+What are the three most common incident descriptions?,2,True
+Name the 4 most frequently occurring police districts.,3,True
+List the three most common incident categories on Fridays.,4,True
+Give the 6 most common resolutions for incidents.,3,True
+List the years with the top 4 highest incident counts.,2,True
+Which 3 incident years have the lowest number of online filed reports? If two have the same number choose the latest year,3,False
+What are the 2 years with the highest incident counts.,1,True
+Name the 6 years with the most number of unique incident categories.,3,True
+Do all patients experience exercise-induced angina?,5,True
+Does any patient have a resting blood pressure above 200?,2,True
+Are there patients without heart disease?,1,True
+Does everyone have normal resting electrocardiographic results?,5,True
+What is the maximum age of patients in the dataset?,2,True
+What is the minimum resting blood pressure among the patients?,3,True
+What is the average cholesterol level in the dataset?,4,True
+What is the standard deviation of maximum heart rate among the patients?,4,True
+What is the most common chest pain type among patients?,1,True
+What is the least common resting electrocardiographic result?,5,True
+What is the most common ST slope among patients with heart disease?,2,True
+What is the least common chest pain type among male patients?,2,False
+What are the top 3 most common chest pain types?,1,True
+Which 4 resting electrocardiographic results are least common?,5,True
+What are the 2 most common ST slopes among patients with heart disease?,2,True
+What are the 4 most common chest pain types among male patients?,2,False
+What are the ages of the 5 oldest patients in the dataset?,2,True
+What are the 4 highest resting blood pressures?,1,True
+What are the 6 lowest cholesterol levels in the dataset?,3,True
+What are the 3 highest maximum heart rates among the patients?,2,True
+Did the oldest roller coaster in the dataset still operate?,3,False
+Is there a roller coaster in the dataset that operates at a speed more than 100 mph?,3,True
+Are all roller coasters in the dataset designed by 'Werner Stengel' removed?,4,False
+Does every roller coaster have a G-force value?,2,False
+What is the maximum speed (in mph) for roller coasters in the dataset?,3,True
+How many roller coasters were introduced in the year 2000?,2,True
+What is the average G-force across all roller coasters in the dataset?,3,True
+What is the total number of roller coasters designed by 'Edwin Madeupname' in the dataset?,4,True
+Which manufacturer has built the fastest roller coaster?,4,False
+What is the status of the roller coaster with the highest G-force?,2,False
+What type of the roller coaster is the oldest in the dataset?,2,True
+What is the location of the roller coaster with the highest number of inversions?,3,True
+What are the names of the top 3 fastest roller coasters?,2,True
+Which 2 roller coasters have the highest number of inversions?,3,False
+What are the locations of the top 5 roller coasters with the highest G-force?,2,False
+Name the 4 oldest roller coasters in the dataset.,2,False
+What are the top 3 speeds (in mph) of roller coasters in the dataset?,2,False
+List the G-force values of the 2 roller coasters with the highest G-force.,3,False
+What are the heights (in ft) of the top 4 tallest roller coasters?,2,True
+Name the introduction years of the 6 oldest roller coasters in the dataset.,3,False
+Is there a rental property with exactly 5 bedrooms?,3,True
+Is there a rental property listed by a superhost that is instantly bookable?,4,False
+Are there any rental properties that can accommodate more than 10 guests?,3,True
+Is there a rental property that has received a perfect review score?,2,True
+How many rental properties are there in the dataset?,3,True
+What is the maximum number of bedrooms in a property?,3,True
+What is the highest price per night for a rental property?,2,False
+What is the maximum number of reviews a property has received?,3,True
+What is the host response time for the property with the highest number of bedrooms?,2,False
+What type of room is the most expensive property?,1,False
+What is the property type of the listing with the most reviews?,2,True
+What is the acceptance rate of the host of the property that can accommodate the most number of guests?,3,False
+Which are the 2 lowest values of host response rates above 0% ?,2,False
+Which are the 2 lowest values of host response rates?,1,False
+What are the 4 highest values of host acceptance rates?,1,False
+What are the 2 least common scraping sources?,1,True
+What are the 3 prices of the most expensive properties?,2,False
+What are the 2 prices of the least expensive properties?,2,False
+What are the 2 numbers of reviews received by the 2 most reviewed properties?,2,True
+What are the 5 numbers of guests accommodated by the properties that can accommodate the most guests?,4,False
+Is there a food item with 'Fruits' as its group?,2,True
+Are there food items with 'Nuts' as their sub group?,2,True
+Is there a food item with scientific name 'Tilia argentea'?,3,True
+Is 'Angelica' listed as a food name in the dataset?,3,True
+How many food items are there in the dataset?,1,True
+How many unique food groups are there in the dataset?,1,False
+How many unique sub groups are there in the dataset?,1,True
+How many unique food items are there in the dataset?,2,True
+What is the group of the food named 'Kiwi'?,2,True
+What is the sub group of the food with scientific name 'Tilia argentea'?,2,True
+What is the scientific name of the food named 'Colorado pinyon'?,3,True
+What is the food name of the item with scientific name 'Tilia argentea'?,3,True
+What are the top 3 most common food groups?,1,True
+What are the top 2 most common groups? If there are two that have the same number of appearances give preference alphabetically.,3,False
+What are the 5 least common food groups?,1,True
+What are the 5 most common sub groups?,1,True
+What are the lengths of the top 5 most common sub group names?,2,True
+What are the number of appearances of the 2 least common groups?,2,False
+What are the number of appearances of the 3 most common groups?,2,False
+What are the three most common group name lengths?,1,True
+Is there a customer with 'Large Business' as their occupation?,3,True
+Are there customers with 'King' as their pitched product?,2,True
+Is there a customer with designation 'VP'?,4,True
+Is 'Unmarried' listed as a marital status in the dataset?,4,True
+How many customers are there in the dataset?,2,True
+How many unique occupations are there in the dataset?,4,True
+How many unique designations are there in the dataset?,4,True
+How many unique marital statuses are there in the dataset?,4,True
+What is the occupation of the customer with ID 200000?,2,True
+What is the product pitched to the customer with ID 200001?,2,True
+What is the designation of the customer with ID 200002?,2,True
+What is the marital status of the customer with ID 200003?,2,True
+What are the 3 most common occupations?,2,True
+What are the top 2 most common pitched products?,1,True
+What are the 4 least common occupations?,2,True
+What are the 2 least common pitched products?,1,False
+What are the ages of the 3 oldest customers?,1,True
+What are the ages of the 4 youngest customers?,1,True
+What are the top 2 highest monthly incomes of the customers?,2,True
+What are the 4 most common duration of pitch?,1,True
+Is there any entry posted on a weekend?,1,True
+Are there titles with more than 100 characters?,1,True
+Do any entries have a negative sentiment according to the Cardiff NLP model?,4,True
+"Is the term 'linux' mentioned in the ""Clusters II"" column?",2,True
+How many entries were posted in the morning?,1,True
+What's the highest score received by an entry?,1,True
+"On average, how many descendants does an entry have?",3,True
+How many entries are in the Autumn season?,1,True
+Which day of the week has the most entries?,1,True
+What is the predominant language used in titles?,2,True
+In which season was the entry with the highest score posted?,2,True
+On which part of the day are most entries posted?,1,True
+"List the top 4 most frequent terms in the ""Clusters II"" column.",2,True
+Name the 2 month names which appear less in the dataset.,2,True
+Identify the top 3 weekdays based on entry frequency.,4,True
+Provide the bottom 4 seasons in terms of entry count.,1,True
+List the top 3 scores in the dataset.,1,True
+Name the bottom 5 title text lengths.,1,True
+Identify the top 4 numbers of descendants.,4,True
+Provide the bottom 6 scores in the dataset.,1,True
+Are there any employees with more than 7 projects?,1,False
+Has any employee worked for more than 300 hours on average per month?,3,False
+Are all satisfaction levels above 0.5?,3,True
+Were there any employees hired in 2019?,2,True
+How many unique departments are there?,2,True
+What's the maximum number of years an employee has been in the company?,3,True
+How many employees have been promoted in the last 5 years?,2,False
+"On average, how many hours do employees work monthly?",4,True
+Which department has the highest number of employees?,3,True
+What's the most common salary level among employees?,4,True
+Which year had the highest number of employees hired?,2,True
+Which salary level has the least number of employees who had an accident at work?,3,True
+Name the top 4 departments with the most employees.,1,True
+List the 3 departments with the most number of promotions in the last 5 years that have at least one promotion. ,3,False
+Identify the 3 departments with the lowest average satisfaction levels.,5,True
+What are the 2 departments with the lowest average monthly hours worked?,3,True
+Identify the top 3 years with the highest employee hiring.,3,True
+Which are the highest 3 satisfaction levels among employees who left?,3,True
+List the bottom 5 average monthly hours among employees who were promoted in the last 5 years.,4,False
+Whhat are the top 6 last evaluation scores?,2,True
+Did any incident result in the total destruction of the aircraft?,3,False
+Have there been any incidents where the cause was related to the undercarriage of the aircraft?,4,True
+Has there been any instance where the ground casualties were non-zero?,2,True
+Are there incidents where the aircraft was involved in a collision?,2,False
+How many unique aircraft models are in the dataset?,3,True
+What's the highest number of occupants recorded in an incident?,4,False
+How many incidents occurred in January 2022?,4,False
+How many incidents resulted in non-zero fatalities?,5,False
+Which aircraft model was involved in the most incidents?,2,True
+What was the cause of the incident that resulted in the most fatalities?,3,False
+What is the most common phase of aircraft during incidents?,2,True
+What is the location of the incident with the highest number of onboard occupants?,3,False
+What are the top 3 most common causes of incidents?,1,True
+List the top 5 locations where the most incidents have occurred. If there are two or more with the same number order them alphabetically,4,False
+Name the 2 most frequently occurring aircraft operators in the dataset.,5,True
+What are the top 2 most common types of aircraft damage?,2,True
+What are the 5 highest numbers of onboard passengers in incidents?,3,False
+List the 3 highest numbers of onboard crew in incidents.,2,False
+Identify the 4 highest numbers of total onboard occupants in incidents.,5,False
+What are the 6 highest numbers of ground casualties in incidents?,3,False
+"Are there any properties with a price over 1,000,000?",1,True
+Any property with more than 10 bedrooms?,2,True
+Are there properties with zero bathrooms?,2,True
+Has any property been listed for more than 100 days?,1,True
+What's the highest price in the dataset?,1,True
+What's the total number of properties listed?,3,True
+What's the longest duration a property has been listed?,3,True
+What's the largest surface listed?,1,False
+What's the most common type of property listed?,1,True
+Which advertiser has listed the most properties?,4,True
+Which property has the highest price?,1,True
+Which property has the largest surface area?,4,False
+What are the five types of properties more frequently listed?,2,True
+What are the 2 types of properties which are listed more frequently?,2,True
+What are the 2 most common localities for properties listed?,3,True
+What are the 2 most common districts for properties listed?,2,True
+What are the 5 highest property prices listed?,2,False
+List the 3 longest durations properties have been listed.,3,False
+Identify the 4 largest surfaces listed.,5,True
+What are the 6 highest numbers of bedrooms in properties listed?,2,False
+Are there more than 2000 customers with a monthly charge higher than $80?,3,True
+Do all customers have phone service?,1,True
+Are there any customers with no internet service?,3,True
+Are there any customers who are senior citizens and have dependents?,3,True
+How many unique customers are there in the dataset?,3,True
+What's the highest monthly charge?,1,True
+What's the total number of customers?,2,True
+What's the longest tenure?,0,True
+What's the most common payment method?,1,True
+What's the most common contract type?,1,True
+Which customer has the highest total charge?,2,True
+Which customer has the highest monthly charge?,2,True
+What are the top 3 most common internet services?,2,True
+Name the 4 most common payment methods.,1,True
+What are the 2 most common types of contract?,1,True
+What are the 2 most common services for which customers have multiple lines?,3,False
+What are the 5 highest total charges?,1,True
+What are the 4 highest monthly charges?,2,True
+What are the 6 longest tenures?,1,True
+What are the 3 shortest tenures?,1,True
+Is there a listing with a review score rating of 100?,2,True
+Are there any hosts who have listed more than 10 properties?,2,True
+Are all listings instantly bookable?,3,False
+Is there a listing that requires a minimum of 365 nights?,2,True
+How many unique hosts are there in the dataset?,1,True
+What is the highest number of listings a single host has?,2,True
+How many unique locations are listed by the hosts?,2,False
+What is the average review score rating across all listings?,3,True
+What is the most common host location?,1,True
+What is the name of the listing with the most bedrooms?,2,True
+Which location has the highest number of listings?,2,True
+What is the most common property type?,1,True
+What are the top 6 unique host locations with the most listings?,2,True
+What are the 2 unique host locations with the most listings?,2,True
+List the 4 most common property types.,1,False
+What are the 2 most common types of properties?.,1,True
+What are the top 3 highest review score ratings?,1,True
+What are the 5 lowest number of minimum nights required?,3,True
+What are the 4 highest unique number of bedrooms listed?,2,False
+What are the 6 lowest review scores given because of locations?,2,True
+Was there a day when the minimum temperature was below zero and it didn't rain?,3,True
+Are there records where the solar radiation exceeds 10 but the maximum temperature was below 20?,4,True
+Did any day with maximum wind speed above 15 also have average wind speed below 5?,3,True
+Were there days in the summer where the minimum temperature dropped below 10?,3,True
+How many days had a maximum temperature above 30 degrees?,3,True
+"On average, what's the minimum temperature during winters?",5,True
+How many unique days had solar radiation measurements?,5,False
+What's the highest wind speed ever recorded?,2,True
+On which weekday did the highest temperature ever occur?,3,True
+In which season do we find the highest average solar radiation?,3,False
+Which month had the lowest average wind speed?,1,False
+On what date was the highest pressure ever recorded?,2,True
+What are the top 3 months with the highest average maximum temperatures?,3,False
+"Which are the 5 weekdays with the most rain, ranked from highest to lowest?",2,False
+"List the 4 seasons ranked by average solar radiation, from highest to lowest.",4,True
+Which 2 months recorded the lowest average minimum temperatures?,5,True
+List the top 5 recorded maximum temperatures.,4,True
+What are the 4 lowest wind speeds ever recorded?,1,True
+Rank the highest 3 solar radiation measurements.,4,True
+Which 6 days of the year (numbered from 1 to 365/366) had the highest average temperatures?,3,False
+"Are there records where the RETRINOIN_xRZI exceeds 10,000?",1,True
+Are there any female respondents who belong to the ESTE NUTS1 region?,4,False
+Do we have respondents who fall under both PRIVADO control and NACIONAL market?,4,True
+"Are there records with RETRINOIN_WwQk less than 5,000?",2,True
+How many unique respondents belong to the ESTE NUTS1 region?,4,False
+"On average, what's the RETRINOIN value for male respondents?",4,False
+What's the highest value for RETRINOIN_ac1q in the dataset?,3,True
+How many unique clusters are present in the 'umap_cluster' column?,3,True
+Which 'ANOS2' category has the most number of respondents?,3,True
+In which 'NUTS1' region do we find the highest average RETRINOIN?,3,True
+Which 'MERCADO' category is the least common in the dataset?,4,True
+Which 'umap_cluster' is the most dominant in the dataset?,3,True
+Which are the 2 least common age categories in the dataset?,2,False
+Which are the 3 least common 'ANOS2' categories in the dataset?,2,False
+List the top 5 'NUTS1' regions by frequency.,1,True
+Which 2 'umap_cluster' categories are the least represented?,5,False
+List the top 5 recorded RETRINOIN values.,3,True
+What are the 4 lowest x values in the dataset?,1,True
+Rank the highest 3 y values in the dataset.,1,True
+What are the largest 2 y values in the dataset?.,2,False
+Is the most visited URL related to 'no code data science'?,3,False
+Does any URL have a competition level of 'Low'?,4,False
+Are there any URLs with an average monthly searches above 1000?,3,False
+Is the URL with the lowest ranking also the one with the highest monthly searches?,3,False
+How many unique URLs are in the dataset?,3,True
+What is the lowest ranking value in the dataset?,2,False
+What is the minimum average monthly searches in the dataset?,4,True
+How many unique keywords are present in the dataset?,3,True
+What is the competition level of the highest-ranked URL?,4,False
+What keyword has the highest average monthly searches?,3,True
+What is the competition level for the URL with the highest ranking?,4,True
+What keyword is associated with the URL with the lowest ranking?,4,True
+What are the top 3 URLs with the highest average monthly searches?,3,False
+List the bottom 2 competition levels of URLs with ranking better than 5.,4,False
+Which are the 4 keywords associated with the URLs of lowest rankings?,4,False
+Enumerate the 3 URLs with the highest ranking.,4,False
+What are the lowest 4 rankings associated with the keyword 'no code data science'?,3,False
+List the bottom 3 average monthly searches for URLs with medium competition.,5,False
+Provide the lowest 5 rankings of URLs with low competition (if any).,4,False
+Specify the bottom 2 average monthly searches for URLs with the highest rankings.,4,False
+Is there any wine with a quality rating of 10?,1,True
+Are there any wines with residual sugar above 15g/dm^3?,3,True
+Is the highest alcohol content wine also the one with the highest quality rating?,3,True
+Does any wine have a pH level below 2.5?,1,True
+How many unique quality ratings are there in the dataset?,3,True
+What is the maximum fixed acidity level found in the dataset?,3,True
+What is the minimum volatile acidity level in the dataset?,5,True
+How many wines have free sulfur dioxide above 50 mg/dm^3?,2,False
+What is the quality rating of the wine with the highest alcohol content?,3,True
+What is the quality rating of the wine with the highest fixed acidity?,3,True
+What is the quality rating of the wine with the lowest volatile acidity?,4,True
+What is the quality rating of the wine with the highest pH level?,3,True
+List the quality ratings of the top 3 wines with the highest alcohol content.,3,True
+Enumerate the quality ratings of the bottom 2 wines with the lowest residual sugar.,5,True
+Which are the quality ratings of the top 5 wines with the highest density?,2,True
+List the quality ratings of the bottom 4 wines with the lowest pH level.,3,True
+What are the alcohol contents of the top 4 wines with the highest quality ratings?,3,False
+List the volatile acidity levels of the bottom 3 wines with the lowest quality ratings.,4,True
+Enumerate the fixed acidity levels of the top 5 wines with the highest quality ratings.,4,True
+Provide the residual sugar levels of the bottom 2 wines with the lowest quality ratings.,4,False
+Is there any purchase with a total cost above 1000?,1,True
+Are there any customers who made a purchase using cash?,2,True
+Is the customer with the highest total purchase cost a 'Member'?,2,True
+Does any customer with a rating strictly above 9 use 'Ewallet' as their payment method?,4,True
+How many unique branches are there in the dataset?,2,True
+What is the maximum quantity of products bought in a single purchase?,3,True
+What is the minimum total cost of a purchase in the dataset?,2,True
+How many purchases were made in Yangon city?,2,False
+What is the payment method used for the purchase with the highest total cost?,2,True
+What is the product line of the purchase with the highest total cost?,2,True
+What is the customer type of the purchase with the lowest total cost?,2,True
+What is the gender of the customer with the highest total purchase cost?,3,True
+List the payment methods of the top 3 purchases with the highest total cost.,2,True
+Enumerate the product lines of the bottom 2 purchases with the lowest total cost.,3,True
+Which are the customer types of the top 5 purchases with the highest total cost?,2,True
+List the genders of the bottom 4 purchases with the lowest total cost.,3,True
+What are the quantities of products bought in the top 4 purchases with the highest total cost?,3,True
+List the unit prices of the bottom 3 purchases with the lowest total cost.,3,True
+Enumerate the ratings of the top 5 purchases with the highest total cost.,3,False
+Provide the gross incomes of the bottom 2 purchases with the lowest total cost.,3,True
+Are there any individuals in the dataset who are above 60 years of age?,3,False
+Does anyone have a Diabetes Pedigree Function score above 2.5?,4,False
+Does the person with the highest glucose level also have diabetes?,3,False
+Is there anyone who has zero pregnancies and is diabetic?,4,True
+What is the maximum number of pregnancies recorded in the dataset?,4,True
+What is the minimum blood pressure level recorded in the dataset?,3,True
+What is the average BMI recorded in the dataset?,3,True
+How many individuals have an insulin level above 150?,5,False
+What is the diabetes outcome for the person with the highest BMI?,2,True
+What is the diabetes outcome for the person with the lowest blood pressure?,3,True
+What is the diabetes outcome for the person with the highest insulin level?,4,True
+What is the diabetes outcome for the person with the lowest glucose level?,3,True
+List the diabetes outcomes of the top 3 individuals with the highest number of pregnancies.,5,True
+List the diabetes outcomes of the bottom 2 individuals with the lowest BMI.,4,False
+List the diabetes outcomes of the top 5 individuals with the highest insulin levels.,5,False
+List the diabetes outcomes of the bottom 4 individuals with the lowest blood pressure.,5,False
+What are the ages of the top 4 individuals with the highest number of pregnancies?,4,False
+List the BMI of the bottom 3 individuals with the lowest glucose levels.,3,False
+Enumerate the blood pressure levels of the top 5 individuals with the highest Diabetes Pedigree Function scores.,5,False
+Provide the glucose levels of the 2 individuals with the highest insulin levels.,4,True
+Are there any articles that have the material type 'Op-Ed'?,3,True
+Does the article with the longest headline contain the keyword 'United States Politics and Government'?,5,True
+Is there any article published on '2021-01-05'?,2,True
+Does any article contain more than 10 keywords?,2,False
+How many unique material types are there in the dataset?,3,True
+What is the longest length of a headline in the dataset?,2,False
+How many articles were published on '2021-01-02'?,2,False
+What is the highest number of keywords associated with a single article?,4,False
+What is the material type of the article with the longest headline?,3,False
+What is the material type of the article with the shortest headline that is not news or video?,4,False
+What is the material type of the non-editorial article with the most number of keywords?,4,False
+What is the most common material amongst articles with the least number of keywords?,3,False
+List the material types of the top 3 articles with the longest headlines.,3,False
+List the material types of the bottom 2 articles with the shortest headlines that are not videos or slides.,4,False
+List the material types of the top 5 articles with the most number of keywords.,3,False
+List the material types of the bottom 4 articles with the least number of keywords.,3,False
+What are the lengths of the headlines of the top 4 articles with the most number of keywords?,3,False
+List the number of keywords in the bottom 3 articles with the shortest headlines.,3,False
+Enumerate the lengths of the headlines of the top 5 articles with the longest headlines.,3,False
+Provide the number of keywords in the bottom 2 articles with the least number of keywords.,3,False
+Is the 'USA' the most common entry in the 'Geographies' column?,3,True
+Are there any participants who are unemployed with a bachelor's degree from Africa?,4,True
+Do all participants recommend Python as the first programming language?,4,False
+Are there more than 1000 participants who hope to become familiar with AWS in the next 2 years?,3,False
+How many unique job titles are represented in the dataset?,4,True
+What's the median of the average number of years participants have used machine learning methods?,4,False
+How many participants are from the United Kingdom?,4,False
+What is the most common number of programming languages used by participants on a regular basis?,5,False
+What's the most common computing platform used for data science projects?,3,False
+What's the most common programming language used on a regular basis?,3,False
+Which country has the second highest number of participants?,4,False
+Which title is the most common among participants?,3,True
+What are the top 4 geographies represented in the dataset?,3,False
+Name the top 3 general segments of participants.,3,False
+list the top 4 most common job titles.,1,True
+Identify the top 6 programming languages used regularly.,5,False
+Report the top 4 age ranges of participants by frequency,3,False
+list the highest average 3 years of machine learning experience.,4,False
+Identify the 5 highest yearly compensations.,5,False
+Report the 5 most common sizes of the company where participants work.,4,False
+Are there more reviews with rating 5 from 'GB' than 'US'?,3,True
+Is the average rating for 'Wise' in 'GB' above 4?,2,True
+Do any reviews originate from 'AO'?,3,True
+Did any reviews receive a rating of 1?,1,True
+What's the total number of reviews for 'Wise'?,2,True
+How many unique countries gave 'Wise' a rating of 5?,2,False
+What is the highest rating received?,1,True
+What's the average rating across all reviews?,3,True
+Which company received the most 5-star reviews?,3,True
+From which country did 'Wise' receive the most reviews?,2,True
+Which country had the lowest representation in the reviews?,4,True
+Which company received the lowest rating?,3,False
+Which are the top 3 countries with the most 5-star reviews for 'Wise'?,3,True
+Which are the 2 companies represented in the dataset?,4,False
+Which are the bottom 4 countries in terms of review count? If two or more have the same number order them alphabetically.,3,False
+What are the 3 most common countries? If two or more have the same number order them alphabetically.,3,True
+What are the 3 most common ratings?,1,False
+What are the 2 least common ratings?,1,False
+What are the best 4 unique ratings given to 'Wise'?,2,False
+What are the bottom 5 unique ratings given to 'N26'?,2,True
+Is there any customer with a PhD education level?,5,True
+Do we have any customers who are married?,1,True
+Is there any customer with income higher than 100000?,2,True
+Has any customer made more than 10 web purchases?,2,True
+How many customers do we have in the dataset?,2,True
+What's the average income of our customers?,4,True
+What's the maximum number of web purchases made by a customer?,3,True
+What's the minimum recency of purchase among the customers?,4,True
+What's the most common education level among our customers?,5,True
+What's the most common marital status among our customers?,4,True
+Who is the customer with the highest income?,1,True
+Who is the customer with the most recent purchase?,1,False
+Who are the 3 customers with the highest income?,1,True
+What are the 2 most common education levels among our customers?,4,True
+What are the 3 most common marital statuses among our customers?,4,True
+Who are the 3 customers with the most web purchases?,1,True
+What are the top 3 income values among our customers?,3,True
+What are the top 2 recency values among our customers?,3,True
+What are the bottom 3 income values among our customers?,3,False
+What are the bottom 2 recency values among our customers?,4,True
+Is there any customer with a high salary?,2,True
+Do we have any employees who suffered a work accident?,3,True
+Is there any employee with more than 100 hours per month on average?,3,True
+Does any employee have a satisfaction level above 0.9?,4,False
+How many employees do we have in the dataset?,2,True
+What's the median satisfaction level of our employees?,5,True
+What's the highest number of projects for a given employee?,3,True
+What's the most common marital status among the employees?,4,True
+What's the most common education level among our employees?,5,False
+What's the most common marital status in the database?,3,False
+"Among the employees who have left the company in sales, what's the most common salary level?",4,True
+"Among the employees who have had a work accident in sales, what's the most common salary level?",3,False
+What are the top 3 satisfaction levels?,2,False
+What are the top 2 most common Work Accident statuses among our employees?,4,True
+What are the top 3 most common marital statuses among our employees?,4,True
+What are the highest 3 years spent in the company? ,1,True
+What are the 3 departments with more 'medium' salary levels?,3,True
+"For the 2 employees with the top satisfaction levels who belong to the sales department, what are their salary levels?",5,False
+What are the top 3 average monthly hours worked among the employees in the top 3 departments with the most employees?,4,False
+What are the lowest 2 satisfaction levels among the employees who have not had a work accident?,4,False
+"Is there any country with a Ladder score above 7.5, a Generosity score above 0.2, and a Social support score above 0.7?",4,True
+"Are there any countries in Western Europe with a Perceptions of corruption score above 0.5, a Ladder score above 7, and a Social support score above 0.7?",5,True
+Are there any countries in Western Europe with a Perceptions of corruption score above 0.5?,4,True
+Is there any country with a Social support score below 0.5?,2,True
+What's the average Ladder score among the countries in Western Europe with a Generosity score above 0.2 and a Social support score above 0.7?,4,True
+What's the average Perceptions of corruption score among the countries in Sub-Saharan Africa with a Ladder score below 5 and a Social support score below 0.5?,5,True
+What's the maximum Generosity score among the countries?,5,True
+What's the minimum Social support score among the countries?,3,False
+Which region has the highest number of countries with a Ladder score above 7 and a Generosity score above 0.2?,5,True
+Which region accounts for the most countries with a Generosity score above 0.2?,3,True
+In which region are the majority of countries with a Perceptions of corruption score below 0.5 located?,5,True
+In which region can you find the majority of countries with a Social support score above 0.7?,3,True
+Can you name the three regions that have the most countries with a Ladder score above 7 and a Generosity score above 0.2?,4,False
+What are the top 3 regions with the most countries with a Generosity score above 0.2?,3,True
+Identify the three highest Ladder scores from countries in Western Europe that have a Generosity score above 0.2 and a Social support score above 0.7.,4,True
+What are the top 3 Perceptions of corruption scores among the countries in Sub-Saharan Africa?,4,True
+What are the top 3 Generosity scores among the countries in Western Europe?,3,True
+What are the top 3 Social support scores among the countries in Sub-Saharan Africa?,3,True
+Which are the three lowest Ladder scores in Western Europe?,2,False
+Which are the three lowest Perceptions of corruption scores in Sub-Saharan Africa?,4,False
+Is the song with the highest rank from 1965?,1,True
+Does the song with the lowest rank contain the word 'love' in its lyrics?,2,False
+Is the artist of the song with the highest rank the same as the artist of the song with the lowest rank?,3,True
+Are there songs without lyrics?,0,True
+How many songs were produced in 1965?,1,True
+In which year was the song with the highest rank produced?,2,True
+What's the rank of the song with the longest lyrics?,2,True
+How many unique artists are there in the dataset?,2,True
+Who is the artist of the song with the highest rank?,2,True
+What is the title of the song with the lowest rank?,2,False
+Which song's lyrics contain the word 'love' the most times?,2,False
+What is the title of the top song produced in the earliest year?,2,True
+Who are the artists of the top 5 ranked songs?,1,False
+What are the titles of the 3 songs with the shortest lyrics?,2,False
+What are the top 4 songs by rank produced in the most recent year?,2,True
+Who are the artists of the bottom 5 ranked songs?,1,False
+What are the ranks of the top 3 songs with the most occurrences of the word 'love' in their lyrics?,3,False
+What are the years of production of the bottom 4 ranked songs?,2,True
+What are the ranks of the 2 songs produced in the earliest year?,2,True
+What are the years of production of the top 5 songs with the longest lyrics?,2,False
+Is the song with the highest rank from 1965 by the Beatles?,2,True
+Which artist has the song with the highest rank in 1965?,2,True
+Who are the artists of the top 3 songs in 1965?,2,False
+What are the years of production of the top 3 songs with the word 'love' in their lyrics by the Beatles?,3,False
+"Are there records where the 'count' exceeds 20,000?",1,True
+Do we have any records originating from 'Jefferson'?,5,True
+Are there destinations with the name 'Baldwin'?,2,True
+Are there records where the latitude of the destination is greater than 60?,3,True
+How many unique destinations are there in the dataset?,4,True
+"On average, how many times is each origin-destination pair reported?",4,True
+What's the highest count value in the dataset?,1,True
+How many unique origin names are there in the dataset?,3,True
+From which origin do we have the highest 'count' recorded?,2,False
+To which destination do we find the highest 'count' reported?,3,False
+Which origin has the lowest latitude?,3,False
+Which destination has the highest longitude?,4,False
+What are the 3 origins with the highest average count?,2,False
+Which are the 4 destinations with the lowest average count?,3,False
+List the 5 origins with the highest average latitude values.,4,False
+Which 2 origins have the lowest non-null average longitude values?,4,True
+List the highest 5 count values.,1,True
+What are the 3 highest latitude values for destinations?,4,True
+Rank the lowest 4 longitude values for origins.,3,True
+Which 6 destination IDs have the highest average counts?,4,True
+Are there talks with more than a million views?,1,True
+Is there a talk by 'Elon Musk'?,1,True
+Are there any TEDx events included?,2,True
+Are there talks available in more than 10 languages?,2,False
+How many unique speakers are there in the dataset?,2,False
+What's the average number of views for the talks?,1,True
+What's the maximum duration of a talk (in seconds)?,2,True
+How many talks have more than 500 comments?,1,True
+Which event has the highest average views?,2,True
+Which speaker's talk has the most comments?,1,False
+Which talk's title has the least views?,1,True
+In which event was the longest talk held?,1,True
+Which are the top 4 events with the highest average number of comments?,3,True
+List the top 3 most frequent speakers in the dataset. If two have the same count go by alphabetical order. ,3,True
+Which 5 events have the shortest average talk durations?,3,True
+List 2 events with the most number of talks.,1,True
+What are the top 4 most viewed talks' view counts?,2,True
+List the 3 shortest talk durations in the dataset.,2,True
+What are the 5 highest number of comments?,1,True
+List the view counts of the 6 least viewed talks.,1,True
+Is it true that the oldest person in the dataset has a stroke?,2,False
