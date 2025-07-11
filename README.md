@@ -77,8 +77,4 @@ To be added
 
 ## Contact
 For any questions or feedback, please contact:
-- Anshuman Aryan: anshuman.aryan24@gmail.com
 - Laukik Wadhwa: laukikwadhwa@gmail.com
-- Kalki Eshwar D: kalkieshward@gmail.com
-- Aakarsh Sinha: aakarshsinha.in@gmail.com
-- Durgesh Kumar: durgesh.nlpai@gmail.com
