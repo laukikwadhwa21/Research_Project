@@ -47,8 +47,6 @@ pip install datasets
 ├── src/
 │   ├── AlphaProQA.py          # .py equivalent of notebook with class created for importing
 │   ├── runner.py              # Running the model for saving the outputs to CSV files
-│   ├── plotter.py             # Plotting the result graphs
-│   └── evalSetGen.py          # Manually formed questions for further performance insight
 ├── results/
 │   ├── Results_1.csv          # Main output files along with related information
 │   └── graded_qa.csv          # Complexity graded questions
