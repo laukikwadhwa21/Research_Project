@@ -75,4 +75,4 @@ To be added
 
 ## Contact
 For any questions or feedback, please contact:
-- Laukik Wadhwa: laukikwadhwa@gmail.com
+- Laukik Wadhwa: laukikwadhwa21@gmail.com
